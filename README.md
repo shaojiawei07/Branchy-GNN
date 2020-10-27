@@ -2,4 +2,4 @@
 For ICASSP2021
 
 
-![avatar](./Framework.png)
+![avatar](./Branchy_GNN_Framework.pdf)
