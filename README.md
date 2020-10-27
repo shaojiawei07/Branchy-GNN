@@ -12,7 +12,7 @@ In the experiment, we have four exit points.
 
 Note that the main branch in the framework is based on [DGCNN](https://github.com/WangYueFt/dgcnn).
 
-<img src="./Branchy_GNN_Framework.png" width="200px" />
+<img src="./Branchy_GNN_Framework.png" width="800px" />
 
 
 
