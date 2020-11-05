@@ -1,6 +1,6 @@
 # Branchy-GNN
 
-This code is for the [paper](https://arxiv.org/abs/2006.02166): "Branchy-GNN: a Device-Edge Co-Inference Framework for Efficient Point Cloud Processing", which is submitted to ICASSP2021.
+This code is for the [paper](https://arxiv.org/abs/2011.02422): "Branchy-GNN: a Device-Edge Co-Inference Framework for Efficient Point Cloud Processing", which is submitted to ICASSP2021.
 
 
 
