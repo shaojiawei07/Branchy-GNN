@@ -50,3 +50,8 @@ So, ``channel_noise = 0.1`` means SNR = 20dB.
 ### Test in different channel conditions
 ``python edge_main.py --num_points=1024 --k=20  --eval=True --model_path= (saved model path) --channel_noise 0.056``
 
+
+### Other
+
+(2023-May-29) I have corrected some errors and updated Fig. 2 and Fig. 3 in the [arxiv version](https://arxiv.org/abs/2011.02422). 
+
